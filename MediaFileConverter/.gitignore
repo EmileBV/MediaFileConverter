@@ -190,6 +190,6 @@ git_stats/*
 StyleCop.Cache
 bin
 obj
-/Tests
-/.vs/MediaFileConverter/DesignTimeBuild
-/.vs/MediaFileConverter
+
+# Test files (ignoring because might be copyrighted files)
+./Tests/*
